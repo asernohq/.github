@@ -15,7 +15,7 @@ Digital craft from the North: Dependable websites, robust back-ends, and calm au
 
 ### PHP ecosystems we work with
 
-We take on **all PHP work** — from new builds to optimization, migration, and rescue projects.
+We take on **all PHP work** - from new builds to optimization, migration, and rescue projects.
 Our experience spans both modern frameworks and established platforms, including:
 
 **CMS & website platforms**  
